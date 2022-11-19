@@ -51,6 +51,6 @@ http
         response.end();
       break;
     }
-  // }).listen(args.port);
+   }).listen(args.port);
 //comment the above line and uncomment the below line to test locally
-}).listen(3000);
+//}).listen(3000);
